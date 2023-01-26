@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Simulation_Exam", "..\Simulation_Exam\Simulation_Exam.pyproj", "{699B5C35-1D0F-4085-B800-2F3C47D56A3E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BasicPython", "BasicPython\BasicPython.pyproj", "{C4682941-8F4A-4F8E-8A11-C6FE5544EAA8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OpenCV", "OpenCV\OpenCV.pyproj", "{F68FDF6F-9B29-4CB9-B424-9F62A3847B11}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LAB_Operating_System", "OperatingSystem\LAB_Operating_System.pyproj", "{D1B79543-EE2C-48B0-BB4A-4B75115542BB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LAB_Simulation_and_Modeling", "SimulationAndModeling\LAB_Simulation_and_Modeling.pyproj", "{6F6D409D-73C1-4C6B-8B1B-68316BD68EAA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataScienceInPython", "DataScienceInPython\DataScienceInPython.pyproj", "{01958529-CE80-43F6-ADCB-ED3C5732B626}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Intro_ML_OREILLY_book", "Intro_ML_OREILLY_book\Intro_ML_OREILLY_book.pyproj", "{80E9D2FA-1EA4-4B3A-826D-CEC1F7CD09E8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Scikit_Image", "ScikitImage\Scikit_Image\Scikit_Image.pyproj", "{482F82E4-3CDE-4519-A4CD-724AEE7FD847}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Image_Classification_CNN", "Image_Classification_CNN\Image_Classification_CNN.pyproj", "{3D6272CA-81A0-4B7D-979C-B4D64217EDC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699B5C35-1D0F-4085-B800-2F3C47D56A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699B5C35-1D0F-4085-B800-2F3C47D56A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4682941-8F4A-4F8E-8A11-C6FE5544EAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4682941-8F4A-4F8E-8A11-C6FE5544EAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68FDF6F-9B29-4CB9-B424-9F62A3847B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68FDF6F-9B29-4CB9-B424-9F62A3847B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B79543-EE2C-48B0-BB4A-4B75115542BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B79543-EE2C-48B0-BB4A-4B75115542BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6D409D-73C1-4C6B-8B1B-68316BD68EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6D409D-73C1-4C6B-8B1B-68316BD68EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01958529-CE80-43F6-ADCB-ED3C5732B626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01958529-CE80-43F6-ADCB-ED3C5732B626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E9D2FA-1EA4-4B3A-826D-CEC1F7CD09E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E9D2FA-1EA4-4B3A-826D-CEC1F7CD09E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482F82E4-3CDE-4519-A4CD-724AEE7FD847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482F82E4-3CDE-4519-A4CD-724AEE7FD847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6272CA-81A0-4B7D-979C-B4D64217EDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6272CA-81A0-4B7D-979C-B4D64217EDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACDC8D5E-7F77-408F-971F-B95250D281A3}
+	EndGlobalSection
+EndGlobal
