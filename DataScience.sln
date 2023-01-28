@@ -21,6 +21,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Scikit_Image", "ScikitImage
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Image_Classification_CNN", "Image_Classification_CNN\Image_Classification_CNN.pyproj", "{3D6272CA-81A0-4B7D-979C-B4D64217EDC0}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LAB_Compiler", "LAB_Compiler\LAB_Compiler.pyproj", "{E7E77F57-FAE9-4950-BCE9-D6C75DA96790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,8 @@ Global
 		{482F82E4-3CDE-4519-A4CD-724AEE7FD847}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D6272CA-81A0-4B7D-979C-B4D64217EDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3D6272CA-81A0-4B7D-979C-B4D64217EDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E77F57-FAE9-4950-BCE9-D6C75DA96790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E77F57-FAE9-4950-BCE9-D6C75DA96790}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
