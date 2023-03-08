@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6f6d409d-73c1-4c6b-8b1b-68316bd68eaa</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Random_Number_using_Mid_Square.py</StartupFile>
+    <StartupFile>Random_Walk_Problem_M.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

@@ -18,7 +18,7 @@
 
 import matplotlib.pyplot as plt
 import numpy as np
-#import pandas as pd
+import pandas as pd
 import cv2
 import os
 import PIL
@@ -115,8 +115,7 @@ y_test[0]
 
 data_augmentation = keras.Sequential(
   [
-
-    layers.experimental.preprocessing.RandomZoom(0.2),
+    layers.experimental.preprocessing.RandomZooexim(0.2),
     layers.experimental.preprocessing.RandomRotation(0.1),
     layers.experimental.preprocessing.RandomFlip("horizontal")
   ]
